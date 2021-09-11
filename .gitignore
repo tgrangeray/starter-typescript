@@ -108,3 +108,4 @@ dist
 .idea/
 *.iml
 .vscode/
+*.code-workspace
