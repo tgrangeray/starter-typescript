@@ -12,9 +12,9 @@ before_install:
 install:
   - npm install
 script:
-  - echo '********** Build start
-  - echo '********** Installing dependencies
+  - echo '********** Build start'
+  - echo '********** Installing dependencies'
   - npm install
-  - echo '*********** Running tests and coverage
+  - echo '*********** Running tests and coverage'
   - npm run coverage
 
