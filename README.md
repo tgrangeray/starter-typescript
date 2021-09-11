@@ -5,8 +5,5 @@ Projet initié en node 14 (LTS)
   - typescript
   - jest avec code coverage
   - eslint
-  - prettier
-  - husky (exécution de prettier en pré-commit)
-
-
-
+  - prettier 
+  - prettier avec husky (exécution de prettier en pré-commit)
