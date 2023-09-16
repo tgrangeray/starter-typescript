@@ -1,7 +1,8 @@
 # starter-typescript
 
-Projet initié en node 14 (LTS)
-- configuration de :
+Démarrer rapidement un projet typescript
+
+- inclu la configuration de :
   - typescript
   - jest avec code coverage
   - eslint
