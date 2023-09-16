@@ -1,4 +1,4 @@
-import calc from './start';
+import calc from '../src/start';
 
 describe('StartApp', () => {
   
